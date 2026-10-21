@@ -1,0 +1,244 @@
+{
+  "perfumes": [
+    {
+      "id": "01",
+      "name": "Blanche",
+      "koreanName": "블랑쉬",
+      "brand": "BYREDO",
+      "family": "Clean",
+      "description": "알데하이드의 맑은 인상에서 로즈와 바이올렛으로, 마지막에는 머스크와 샌들우드의 부드러운 결로 이어집니다.",
+      "notes": [
+        "Aldehyde · Rose Centifolia",
+        "Peony · Violet",
+        "Musks · Sandalwood"
+      ],
+      "volume": "100 ml",
+      "concentration": "Eau de Parfum",
+      "image": "images/perfume-01.jpg",
+      "source": "https://www.byredo.com/us_en/p/blanche-eau-de-parfum",
+      "imageSource": "https://escentials.com/products/byredo-blanche-eau-de-parfum",
+      "short": "깨끗한 피부 위에 남는 부드러운 머스크",
+      "recommended": true,
+      "color": "#bfa880",
+      "background": "#eeeae1",
+      "mood": "차분한 일상",
+      "season": "사계절",
+      "noteLabels": [
+        "TOP NOTE",
+        "HEART NOTE",
+        "BASE NOTE"
+      ],
+      "price": 289000
+    },
+    {
+      "id": "02",
+      "name": "Philosykos",
+      "koreanName": "필로시코스",
+      "brand": "DIPTYQUE",
+      "family": "Green",
+      "description": "무화과 잎의 싱그러움과 수액의 밀키함, 나무의 결까지. 그리스의 여름을 떠올리게 하는 무화과나무의 향입니다.",
+      "notes": [
+        "Fig leaves",
+        "Fig tree sap",
+        "Fig tree wood · Black pepper"
+      ],
+      "volume": "100 ml",
+      "concentration": "Eau de Toilette",
+      "image": "images/perfume-02.png",
+      "source": "https://diptyqueparis.com/en-eu/products/eau-de-toilette-philosykos-philo100v2",
+      "imageSource": "https://duranteroma.it/prodotto/diptyque-philosykos-eau-de-toilette-100ml/",
+      "short": "잎과 수액, 나무로 이어지는 무화과의 풍경",
+      "recommended": true,
+      "color": "#bfa880",
+      "background": "#eeeae1",
+      "mood": "싱그러운 휴식",
+      "season": "봄 · 여름",
+      "noteLabels": [
+        "KEY NOTE 01",
+        "KEY NOTE 02",
+        "KEY NOTE 03"
+      ],
+      "price": 219000
+    },
+    {
+      "id": "03",
+      "name": "Coco Mademoiselle",
+      "koreanName": "코코 마드모아젤",
+      "brand": "CHANEL",
+      "family": "Floral",
+      "description": "산뜻한 오렌지로 시작해 재스민과 로즈의 투명한 플로럴 어코드로 이어집니다. 패출리와 베티버가 선명한 잔향을 완성합니다.",
+      "notes": [
+        "Orange",
+        "Jasmine · Rose",
+        "Patchouli · Vetiver"
+      ],
+      "volume": "100 ml",
+      "concentration": "Eau de Parfum",
+      "image": "images/perfume-03.png",
+      "source": "https://www.chanel.com/us/fragrance/p/116520/coco-mademoiselle-eau-de-parfum-spray/",
+      "imageSource": "https://www.chanel.cn/cn/fragrance/p/116520/coco-mademoiselle-eau-de-parfum-spray/",
+      "short": "선명한 시트러스와 우아한 플로럴의 조화",
+      "recommended": true,
+      "color": "#bfa880",
+      "background": "#eeeae1",
+      "mood": "우아한 만남",
+      "season": "봄 · 가을",
+      "noteLabels": [
+        "TOP NOTE",
+        "HEART NOTE",
+        "BASE NOTE"
+      ],
+      "price": 228000
+    },
+    {
+      "id": "04",
+      "name": "Sauvage",
+      "koreanName": "소바쥬",
+      "brand": "DIOR",
+      "family": "Woody",
+      "description": "칼라브리아 베르가모트의 밝고 스파이시한 인상에 파푸아뉴기니 바닐라의 따뜻한 잔향이 더해집니다.",
+      "notes": [
+        "Calabrian bergamot",
+        "Sichuan pepper · Lavender",
+        "Vanilla · Ambroxan"
+      ],
+      "volume": "100 ml",
+      "concentration": "Eau de Parfum",
+      "image": "images/perfume-04.jpg",
+      "source": "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-parfum-F078522009.html",
+      "imageSource": "https://buybeautique.com/products/dior-sauvage-eau-de-parfum-100-ml",
+      "short": "시원한 베르가모트, 깊고 따뜻한 바닐라",
+      "recommended": true,
+      "color": "#bfa880",
+      "background": "#eeeae1",
+      "mood": "깊은 여운",
+      "season": "가을 · 겨울",
+      "noteLabels": [
+        "TOP NOTE",
+        "HEART NOTE",
+        "BASE NOTE"
+      ],
+      "price": 189000
+    },
+    {
+      "id": "05",
+      "name": "Bal d’Afrique",
+      "koreanName": "발 다프리크",
+      "brand": "BYREDO",
+      "family": "Citrus",
+      "description": "베르가모트와 아프리칸 메리골드의 생기 있는 시작. 바이올렛과 시클라멘을 지나 베티버와 시더우드의 깊이로 이어집니다.",
+      "notes": [
+        "Bergamot · African marigold · Blackcurrant",
+        "Cyclamen · Jasmine petals · Violet",
+        "Cedarwood · Vetiver · Musks · Tonka bean"
+      ],
+      "volume": "100 ml",
+      "concentration": "Eau de Parfum",
+      "image": "images/perfume-05.jpg",
+      "source": "https://www.byredo.com/sg_en/p/bal-d-afrique-eau-de-parfum",
+      "imageSource": "https://www.sephora.com/ca/en/product/bal-d-afrique-edp-P520060",
+      "short": "밝은 베르가모트와 부드러운 우디의 여운",
+      "recommended": false,
+      "color": "#bfa880",
+      "background": "#eeeae1",
+      "mood": "산뜻한 시작",
+      "season": "봄 · 여름",
+      "noteLabels": [
+        "TOP NOTE",
+        "HEART NOTE",
+        "BASE NOTE"
+      ],
+      "price": 289000
+    },
+    {
+      "id": "06",
+      "name": "J’adore",
+      "koreanName": "쟈도르",
+      "brand": "DIOR",
+      "family": "Floral",
+      "description": "일랑일랑과 다마스크 로즈, 그랑디플로룸과 삼박 재스민이 어우러진 플로럴 부케. 하나의 상상 속 꽃처럼 조화로운 향입니다.",
+      "notes": [
+        "Ylang-ylang",
+        "Damascus rose",
+        "Jasmine grandiflorum · Jasmine sambac"
+      ],
+      "volume": "100 ml",
+      "concentration": "Eau de Parfum",
+      "image": "images/perfume-06.jpg",
+      "source": "https://www.dior.com/en_us/beauty/products/j%E2%80%99adore-eau-de-parfum-Y0998031.html",
+      "imageSource": "https://www.dior.com/en_us/beauty/products/j%E2%80%99adore-eau-de-parfum-Y0998031.html",
+      "short": "로즈와 재스민으로 완성한 빛나는 꽃의 향",
+      "recommended": false,
+      "color": "#bfa880",
+      "background": "#eeeae1",
+      "mood": "우아한 만남",
+      "season": "봄 · 가을",
+      "noteLabels": [
+        "KEY NOTE 01",
+        "KEY NOTE 02",
+        "KEY NOTE 03"
+      ],
+      "price": 218000
+    },
+    {
+      "id": "07",
+      "name": "Wood Sage & Sea Salt",
+      "koreanName": "우드 세이지 앤 씨 솔트",
+      "brand": "JO MALONE LONDON",
+      "family": "Woody",
+      "description": "암브레트 씨드, 씨 솔트, 세이지가 만들어내는 신선한 우디 향. 바위 절벽과 바다의 미네랄한 공기를 떠올리게 합니다.",
+      "notes": [
+        "Ambrette seeds",
+        "Sea salt",
+        "Sage"
+      ],
+      "volume": "100 ml",
+      "concentration": "Cologne",
+      "image": "images/wood-sage-sea-salt.png",
+      "source": "https://www.jomalone.com/product/25946/32241/colognes/wood-sage-sea-salt-cologne",
+      "imageSource": "https://www.kicks.se/jo-malone-london-wood-sage-sea-salt-cologne-100-ml_89580596",
+      "short": "세이지와 씨 솔트가 그리는 해안의 공기",
+      "recommended": false,
+      "color": "#bfa880",
+      "background": "#eeeae1",
+      "mood": "깊은 여운",
+      "season": "가을 · 겨울",
+      "noteLabels": [
+        "TOP NOTE",
+        "HEART NOTE",
+        "BASE NOTE"
+      ],
+      "price": 218000
+    },
+    {
+      "id": "08",
+      "name": "Bleu de Chanel",
+      "koreanName": "블루 드 샤넬",
+      "brand": "CHANEL",
+      "family": "Woody",
+      "description": "아로마틱 우디를 중심으로 앰버와 머스크, 시더의 풍성함이 어우러집니다. 뉴칼레도니아 샌들우드가 깊이를 더합니다.",
+      "notes": [
+        "Aromatic woods",
+        "Cedar · Amber · Musk",
+        "New Caledonian sandalwood"
+      ],
+      "volume": "150 ml",
+      "concentration": "Eau de Parfum",
+      "image": "images/perfume-08.png",
+      "source": "https://www.chanel.com/ca-en/fragrance/p/107370/bleu-de-chanel-eau-de-parfum-spray/",
+      "imageSource": "https://www.chanel.com/ca-en/fragrance/p/107370/bleu-de-chanel-eau-de-parfum-spray/",
+      "short": "시더와 샌들우드의 절제된 깊이",
+      "recommended": false,
+      "color": "#bfa880",
+      "background": "#eeeae1",
+      "mood": "깊은 여운",
+      "season": "가을 · 겨울",
+      "noteLabels": [
+        "KEY NOTE 01",
+        "KEY NOTE 02",
+        "KEY NOTE 03"
+      ],
+      "price": 225000
+    }
+  ]
+}
